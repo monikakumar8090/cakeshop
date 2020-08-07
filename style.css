@@ -1,0 +1,32 @@
+body{
+    background:url("/images/party-cake-background.jpg");
+    background-size: cover;
+}
+
+div{
+    background-color:gray;
+    width:60%;
+    margin:200px auto;
+    text-align: center;
+    color: white;
+     border-radius:20px;
+     font-family: 'Lobster', cursive;
+     opacity: 0.8;
+    }
+i{
+    margin-top:20px;
+
+}
+
+
+ button{
+        background-color: lime;
+        color:white;
+        padding:5px; 
+        font-size:20px;
+        font-family: 'Satisfy', cursive;
+ }
+ p{
+     font-size:30px;
+ }
+ 
